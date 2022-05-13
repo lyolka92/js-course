@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "next": "^12.1.6",
+    "nextra": "^1.1.0",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  },
+  "name": "js-course",
+  "version": "1.0.0",
+  "description": "Educational course for beginners in front-end development",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next",
+    "start": "next start",
+    "build": "next build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lyolka92/js-course.git"
+  },
+  "author": "Olga Serova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lyolka92/js-course/issues"
+  },
+  "homepage": "https://github.com/lyolka92/js-course#readme"
+}
