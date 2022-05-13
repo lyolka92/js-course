@@ -1,0 +1,12 @@
+{
+  "index": "SDLC",
+  "fe-tools": "Front-end tools",
+  "javascript": "JavaScript",
+  "patterns": "Patterns",
+  "programming-paradigms": "Programming paradigms",
+  "layout": "Layout",
+  "browser": "Browser",
+  "network-communications": "Network communications",
+  "react": "React",
+  "angular": "Angular"
+}

@@ -1,2 +1,8 @@
-/.idea
-/node_modules
+node_modules
+.next
+.idea
+.DS_Store
+yarn-error.log
+dist
+examples
+packages
